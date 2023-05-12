@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hola! :v:, <br>меня зовут Игорь </h1>
+    <h1>¡Hola! :v:, <br>меня зовут Игорь </h1>
     <h3>и я студент Яндекс Практикум </h3>
      <img align="center" alt="GIF" src="https://raw.githubusercontent.com/IgorSmirnof/IgorSmirnof/main/images/code.gif?raw=true" width="500" height="320" />
 </div>
